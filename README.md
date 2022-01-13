@@ -13,3 +13,5 @@ go test -bench=. -benchmem
 in each of the subdirectories:
 - `previous` for the previous state
 - `pr` for the state from the PR branch
+
+Runs are also made in this [Github Actions workflow](https://github.com/paulcacheux/distrib-re-benchmark/actions/workflows/benchmark.yaml)
