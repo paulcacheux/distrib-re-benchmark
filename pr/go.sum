@@ -65,8 +65,8 @@ github.com/ncw/swift v1.0.47/go.mod h1:23YIA4yWVnGwv2dQlN4bB7egfYX6YLn0Yo/S6zZO/
 github.com/opencontainers/go-digest v1.0.0 h1:apOUWs51W5PlhuyGyz9FCeeBIOUDA/6nW8Oi/yOhh5U=
 github.com/opencontainers/go-digest v1.0.0/go.mod h1:0JzlMkj0TRzQZfJkVvzbP0HBR3IKzErnv2BNG4W4MAM=
 github.com/opencontainers/image-spec v1.0.2/go.mod h1:BtxoFyWECRxE4U/7sNtV5W15zMzWCbyJoFRP3s7yZA0=
-github.com/paulcacheux/distribution/v3 v3.0.0-20220113155300-1c89ce5fc1ce h1:8em8zxBj0Z/qgeNNlW7/zNZkPEfRw2pfsaW0zdyn0JU=
-github.com/paulcacheux/distribution/v3 v3.0.0-20220113155300-1c89ce5fc1ce/go.mod h1:xpAkbgyQlv/evSOBh/eobFhOj0DNbEj/Z812npVzTjY=
+github.com/paulcacheux/distribution/v3 v3.0.0-20220113210606-89622d99a13e h1:VUIW4AnVtEyGnjdFH46MgTNQMK0sNbWDgrT6Zqf3F+A=
+github.com/paulcacheux/distribution/v3 v3.0.0-20220113210606-89622d99a13e/go.mod h1:xpAkbgyQlv/evSOBh/eobFhOj0DNbEj/Z812npVzTjY=
 github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
